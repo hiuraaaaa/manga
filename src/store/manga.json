@@ -1,0 +1,281 @@
+{
+  "series": [
+    {
+      "slug": "boss-sombong",
+      "title": "Boss Sombong",
+      "cover": "/manga/boss-sombong/cover.png",
+      "tags": [
+        "romantis",
+        "CEO",
+        "asmara"
+      ],
+      "rating": 4.8,
+      "views": "900.6M",
+      "likes": "15.1M",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Episode 1",
+          "pages": 8,
+          "date": "2018-10-13",
+          "likes": "100.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 2,
+          "title": "Episode 2",
+          "pages": 8,
+          "date": "2018-10-14",
+          "likes": "99.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 3,
+          "title": "Episode 3",
+          "pages": 8,
+          "date": "2018-10-15",
+          "likes": "99.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 4,
+          "title": "Episode 4",
+          "pages": 8,
+          "date": "2018-10-16",
+          "likes": "98.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 5,
+          "title": "Episode 5",
+          "pages": 8,
+          "date": "2018-10-17",
+          "likes": "98.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 6,
+          "title": "Episode 6",
+          "pages": 8,
+          "date": "2018-10-18",
+          "likes": "97.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 7,
+          "title": "Episode 7",
+          "pages": 8,
+          "date": "2018-10-19",
+          "likes": "97.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 8,
+          "title": "Episode 8",
+          "pages": 8,
+          "date": "2018-10-20",
+          "likes": "96.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 9,
+          "title": "Episode 9",
+          "pages": 8,
+          "date": "2018-10-21",
+          "likes": "96.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 10,
+          "title": "Episode 10",
+          "pages": 8,
+          "date": "2018-10-22",
+          "likes": "95.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 11,
+          "title": "Episode 11",
+          "pages": 8,
+          "date": "2018-10-23",
+          "likes": "95.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 12,
+          "title": "Episode 12",
+          "pages": 8,
+          "date": "2018-10-24",
+          "likes": "94.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 13,
+          "title": "Episode 13",
+          "pages": 8,
+          "date": "2018-10-25",
+          "likes": "94.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 14,
+          "title": "Episode 14",
+          "pages": 8,
+          "date": "2018-10-26",
+          "likes": "93.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 15,
+          "title": "Episode 15",
+          "pages": 8,
+          "date": "2018-10-13",
+          "likes": "93.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 16,
+          "title": "Episode 16",
+          "pages": 8,
+          "date": "2018-10-14",
+          "likes": "92.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 17,
+          "title": "Episode 17",
+          "pages": 8,
+          "date": "2018-10-15",
+          "likes": "92.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 18,
+          "title": "Episode 18",
+          "pages": 8,
+          "date": "2018-10-16",
+          "likes": "91.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 19,
+          "title": "Episode 19",
+          "pages": 8,
+          "date": "2018-10-17",
+          "likes": "91.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 20,
+          "title": "Episode 20",
+          "pages": 8,
+          "date": "2018-10-18",
+          "likes": "90.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 21,
+          "title": "Episode 21",
+          "pages": 8,
+          "date": "2018-10-19",
+          "likes": "90.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 22,
+          "title": "Episode 22",
+          "pages": 8,
+          "date": "2018-10-20",
+          "likes": "89.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 23,
+          "title": "Episode 23",
+          "pages": 8,
+          "date": "2018-10-21",
+          "likes": "89.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 24,
+          "title": "Episode 24",
+          "pages": 8,
+          "date": "2018-10-22",
+          "likes": "88.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 25,
+          "title": "Episode 25",
+          "pages": 8,
+          "date": "2018-10-23",
+          "likes": "88.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 26,
+          "title": "Episode 26",
+          "pages": 8,
+          "date": "2018-10-24",
+          "likes": "87.k",
+          "comments": "5.k"
+        },
+        {
+          "number": 27,
+          "title": "Episode 27",
+          "pages": 8,
+          "date": "2018-10-25",
+          "likes": "87.k",
+          "comments": "6.k"
+        },
+        {
+          "number": 28,
+          "title": "Episode 28",
+          "pages": 8,
+          "date": "2018-10-26",
+          "likes": "86.k",
+          "comments": "3.k"
+        },
+        {
+          "number": 29,
+          "title": "Episode 29",
+          "pages": 8,
+          "date": "2018-10-13",
+          "likes": "86.k",
+          "comments": "4.k"
+        },
+        {
+          "number": 30,
+          "title": "Episode 30",
+          "pages": 8,
+          "date": "2018-10-14",
+          "likes": "85.k",
+          "comments": "5.k"
+        }
+      ]
+    },
+    {
+      "slug": "kitchen-alchemist",
+      "title": "Kitchen Alchemist",
+      "cover": "/manga/kitchen-alchemist/cover.png",
+      "tags": [
+        "slice of life",
+        "food"
+      ],
+      "rating": 4.6,
+      "views": "12.1M",
+      "likes": "321k",
+      "chapters": [
+        {
+          "number": 1,
+          "title": "Resep Rahasia",
+          "pages": 7,
+          "date": "2021-02-01",
+          "likes": "1.2k",
+          "comments": "120"
+        }
+      ]
+    }
+  ]
+}
